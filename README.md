@@ -1,5 +1,5 @@
 # dualmaps-userscript
-Script to automatically click through the 'view map' button on Dual Maps v5
+Script to automatically click through the 'view map' button on Dual Maps v7
 
 ## Installing the script using Tampermonkey
 
